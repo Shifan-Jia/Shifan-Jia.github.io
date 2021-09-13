@@ -9,13 +9,12 @@ Phone number: 86-18992353111 <br />
 Address: No.232 XiYi Road, Xi’an, Shaanxi, China, 710000
 
 ## Education
-<A NAME="Education"><h3>Education</h3></A>
 <ul>
 <li>2019.08 -  2021.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. in <a href="https://statistics.columbian.gwu.edu/" target="_blank">Statistics</a>, <a href="https://www.gwu.edu/" target="_blank"> George Washington University</a>. GPA: 3.77/4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Dr. <a href="https://statistics.columbian.gwu.edu/qing-pan" target="_blank">Qing Pan</a></li>
 <li>2015.09 - 2019.06 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. in <a href="http://maths.snnu.edu.cn/" target="_blank">Mathematics and Applied Mathematics</a>, <a href="https://english.snnu.edu.cn/" target="_blank">Shaanxi Normal University</a>. Rank: 5/38 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
 </ul>
 
-<A NAME="Research Experience"><h3>Research Experience</h3></A>
+## Research Experience
 Sep. 2020 – Nov. 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> USA COVID-19 Case Rate and Reopening School Factors Analysis</b>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <font size="3">
  <ul>
@@ -59,15 +58,28 @@ validate each step of the predictions. </li>
 <li>Improved the algorithm with the least squares projection; successfully applied it for disease prediction and improve 10%
 of the prediction accuracy.</li>  
 </ul>  
-  
-  
-  
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Professional Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shifan-Jia/Shifan-Jia.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
+#### Shaanxi Shantou Capital Management Co., Ltd.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present   &nbsp;&nbsp; Xi'an 
+ <ul> 
+<li>Collected diverse industry private equity and venture capital data from Jingdata, analyzed the data and conducted data
+visualization using R.</li>
+<li>Predicted the profitability ratio of fund projects. </li>
+<li>Cooperated with colleagues to finish weekly research reports. </li>
+<ul>
+ 
+#### TConneX Inc.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2020 – September 2020   &nbsp;&nbsp;  Herndon, Virginia
+ <ul>
+<li> Based on Decision Tree and Markov Chain to analyze the Diabetes-related amputations data and calculated each
+amputation’s transition probability, conducting sensitivity analysis.</li>
+<li>Built Markov Model Simulations based on Diabetes-related amputations data, and generated a report of the results per
+day. </li>
+<li>Tested the TConneX Inc’s data analytical platform EzAnalytix by power analysis using R, and identified and fixed
+approximately 10 bugs; wrote a user manual. </li>
+<ul>
+ 
+ 
+ 
+## Techincal Skills
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
