@@ -1,6 +1,6 @@
 ## Shifan Jia
 
-<i> Master Student </i> (<b><font color="#FF0000"> She is seeking a PhD position.</font></b>) 
+<i> Master Student </i> (<b><font color="#FF0000"> I am seeking a PhD position.</font></b>) 
 <br />
 <a href="https://statistics.columbian.gwu.edu/" target="_blank">Department of Statistics</a>, <a href="https://www.gwu.edu/" target="_blank">George Washington University</a><br />
 <br /> 
@@ -55,26 +55,29 @@ between diseases and the mi-RNA/lnc-RNA using R.</li>
 validate each step of the predictions. </li>
 <li>Improved the algorithm with the least squares projection; successfully applied it for disease prediction and improve 10%
 of the prediction accuracy.</li>  
- <ul> 
+</ul> 
 
+ ## Professional Experience
 <A NAME="Professional Experience"><h3>Professional Experience</h3></A>
 <ul> 
-### Shaanxi Shantou Capital Management Co., Ltd.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
+<b> Shaanxi Shantou Capital Management Co., Ltd.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
  <ul> 
 <li>Collected diverse industry private equity and venture capital data from Jingdata, analyzed the data and conducted data
 visualization using R.</li>
 <li>Predicted the profitability ratio of fund projects. </li>
 <li>Cooperated with colleagues to finish weekly research reports. </li>
-<ul>
+</ul>
  
-### TConneX Inc.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2020 – September 2020   &nbsp;&nbsp;  Herndon, Virginia
- <ul>
+<b> TConneX Inc.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2020 – September 2020   &nbsp;&nbsp;Herndon, Virginia
+<ul>
 <li> Based on Decision Tree and Markov Chain to analyze the Diabetes-related amputations data and calculated each
 amputation’s transition probability, conducting sensitivity analysis.</li>
 <li>Built Markov Model Simulations based on Diabetes-related amputations data, and generated a report of the results per
 day. </li>
 <li>Tested the TConneX Inc’s data analytical platform EzAnalytix by power analysis using R, and identified and fixed
 approximately 10 bugs; wrote a user manual. </li>
-<ul>
+</ul>
+
+## Relevant Coursework
  
 ## Techincal Skills
