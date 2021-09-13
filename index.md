@@ -1,6 +1,6 @@
 ## Shifan Jia
 
-<i> Master Degree Candidate </i> (<b><font color="#FF0000"> She is seeking a PhD position.</font></b>) 
+<i> Master Student </i> (<b><font color="#FF0000"> She is seeking a PhD position.</font></b>) 
 <br />
 <a href="https://statistics.columbian.gwu.edu/" target="_blank">Department of Statistics</a>, <a href="https://www.gwu.edu/" target="_blank">George Washington University</a><br />
 <br /> 
@@ -11,7 +11,7 @@ Address: No.232 XiYi Road, Xi’an, Shaanxi, China, 710000
 ## Education
 <ul>
 <li>2019.08 -  2021.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. in <a href="https://statistics.columbian.gwu.edu/" target="_blank">Statistics</a>, <a href="https://www.gwu.edu/" target="_blank"> George Washington University</a>. GPA: 3.77/4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Dr. <a href="https://statistics.columbian.gwu.edu/qing-pan" target="_blank">Qing Pan</a></li>
-<li>2015.09 - 2019.06 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. in <a href="http://maths.snnu.edu.cn/" target="_blank">Mathematics and Applied Mathematics</a>, <a href="https://english.snnu.edu.cn/" target="_blank">Shaanxi Normal University</a>. Rank: 5/38 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+<li>2015.09 - 2019.06 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. in <a href="http://maths.snnu.edu.cn/" target="_blank">Mathematics and Applied Mathematics</a>, <a href="https://english.snnu.edu.cn/" target="_blank">Shaanxi Normal University</a>. Rank: 5/38 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
 </ul>
 
 ## Research Experience
