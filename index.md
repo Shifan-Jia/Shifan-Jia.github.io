@@ -36,7 +36,6 @@ related to reopening schools.</li>
 <li> Implemented cross-validation to estimate models’ performance and created optimal weight average of such models using R; made prediction offering 85.1 % prediction accuracy</li> 
 </ul>  
 
-  
 Sep. 2019 – Nov. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Tourism Stocks Price Analysis </b>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <font size="3">
  <ul>
@@ -44,7 +43,6 @@ Sep. 2019 – Nov. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Tourism S
 <li> Implemented regression model and time series model to analyze factors and predict closing price using R and SAS. </li>
 <li>Used the BP neural networks to improve the accuracy of price prediction.</li>  
 </ul>   
-  
   
 Jan. 2019 – May. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Network Pharmacology and Complex Disease Prediction </b>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <font size="3">
@@ -67,8 +65,9 @@ visualization using R.</li>
 <li>Predicted the profitability ratio of fund projects. </li>
 <li>Cooperated with colleagues to finish weekly research reports. </li>
 </ul>
+</font>
  
-<b> TConneX Inc.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2020 – September 2020 &nbsp;&nbsp;Herndon, Virginia
+<b> TConneX Inc.</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2020 – September 2020 &nbsp;&nbsp;Herndon, Virginia
 <ul>
 <li> Based on Decision Tree and Markov Chain to analyze the Diabetes-related amputations data and calculated each
 amputation’s transition probability, conducting sensitivity analysis.</li>
@@ -79,11 +78,13 @@ approximately 10 bugs; wrote a user manual. </li>
 </ul>
 
 <A NAME=" Relevant Coursework"><h2>Relevant Coursework</h2></A>
-
-
- <A NAME=" Technical Skills"><h2>Techincal Skills</h2></A>
+• Mathematical Analysis • Stochastic Process  • Mathematical Statistics
+• Data Mining • Bayesian Statistics • Statistical Consulting
+• Advanced Time Series • Design of Experiments • Macroeconomics
+ 
+<A NAME=" Technical Skills"><h2>Techincal Skills</h2></A>
 <ul>
 <li> Programming Tools:R, Python, C programming, SAS, SQL.</li>
 <li>Data Visualization:Tableau </li>
-<li>Functional Skills :Data Processing, Machine Learning, Data Visualization.. </li>
+<li>Functional Skills :Data Processing, Machine Learning, Data Visualization. </li>
 </ul>
