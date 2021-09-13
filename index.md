@@ -57,10 +57,10 @@ validate each step of the predictions. </li>
 of the prediction accuracy.</li>  
 </ul> 
 
- ## Professional Experience
-<A NAME="Professional Experience"><h3>Professional Experience</h3></A>
+<A NAME="Professional Experience"><h2>Professional Experience</h2></A>
 <ul> 
 <b> Shaanxi Shantou Capital Management Co., Ltd.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
+ <font size="3">
  <ul> 
 <li>Collected diverse industry private equity and venture capital data from Jingdata, analyzed the data and conducted data
 visualization using R.</li>
@@ -68,16 +68,22 @@ visualization using R.</li>
 <li>Cooperated with colleagues to finish weekly research reports. </li>
 </ul>
  
-<b> TConneX Inc.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2020 – September 2020   &nbsp;&nbsp;Herndon, Virginia
+<b> TConneX Inc.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2020 – September 2020 &nbsp;&nbsp;Herndon, Virginia
 <ul>
 <li> Based on Decision Tree and Markov Chain to analyze the Diabetes-related amputations data and calculated each
 amputation’s transition probability, conducting sensitivity analysis.</li>
 <li>Built Markov Model Simulations based on Diabetes-related amputations data, and generated a report of the results per
-day. </li>
+day.</li>
 <li>Tested the TConneX Inc’s data analytical platform EzAnalytix by power analysis using R, and identified and fixed
 approximately 10 bugs; wrote a user manual. </li>
 </ul>
 
-## Relevant Coursework
- 
-## Techincal Skills
+<A NAME=" Relevant Coursework"><h2>Relevant Coursework</h2></A>
+
+
+ <A NAME=" Technical Skills"><h2>Techincal Skills</h2></A>
+<ul>
+<li> Programming Tools:R, Python, C programming, SAS, SQL.</li>
+<li>Data Visualization:Tableau </li>
+<li>Functional Skills :Data Processing, Machine Learning, Data Visualization.. </li>
+</ul>
