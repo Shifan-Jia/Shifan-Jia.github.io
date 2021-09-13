@@ -65,6 +65,7 @@ of the prediction accuracy.</li>
 <b>Shaanxi Shantou Capital Management Co., Ltd. </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
 <font size="3">
 <ul> 
+<b><i> Junior Researcher </i></b>
 <li>Collected diverse industry private equity and venture capital data from Jingdata, analyzed the data and conducted data
 visualization using R.</li>
 <li>Predicted the profitability ratio of fund projects. </li>
@@ -74,6 +75,7 @@ visualization using R.</li>
  
 <b> TConneX Inc.</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2020 – September 2020 &nbsp;&nbsp;&nbsp;&nbsp; Herndon, Virginia
 <ul>
+<b><i> Data Analyst </i></b>
 <li> Based on Decision Tree and Markov Chain to analyze the Diabetes-related amputations data and calculated each
 amputation’s transition probability, conducting sensitivity analysis.</li>
 <li>Built Markov Model Simulations based on Diabetes-related amputations data, and generated a report of the results per
