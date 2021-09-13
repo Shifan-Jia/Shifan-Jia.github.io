@@ -17,7 +17,8 @@ Address: No.232 XiYi Road, Xi’an, Shaanxi, China, 710000
 ## Research Experience
 Sep. 2020 – Nov. 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> USA COVID-19 Case Rate and Reopening School Factors Analysis</b>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <font size="3">
- <ul>
+<ul>
+<b><i> At GWU </i></b>
 <li> Collected Covid-19 data including 127 variables and 3116 observations from the American Community Survey Data,
 made data visualization by presenting a personalities map.</li>
 <li>Implemented linear regression models and time series (ARIMA) model to analyze USA case factors and predict new cases
@@ -30,6 +31,7 @@ related to reopening schools.</li>
  Sep. 2020 – Nov. 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Predict the Probability of Americans Getting Vaccine </b>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <font size="3">
  <ul>
+<b><i> At GWU </i></b>  
 <li>Divided the 50000 samples into a training set and test set , made data cleaning and data visualization using R.</li>
 <li>Utilized PCA and Factors Analysis on 26708 test data and 63 features to make dimension reductions. </li>
 <li> Applied different classification methods (LDA, QDA, gradient boosting tree, random forest, support vector machine) to classify the observations.</li> 
@@ -39,14 +41,16 @@ related to reopening schools.</li>
 Sep. 2019 – Nov. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Tourism Stocks Price Analysis </b>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <font size="3">
  <ul>
+<b><i> At GWU </i></b>
 <li>Collected past 6-months tourism stocks price data and preformed data visualization using R.</li>
 <li> Implemented regression model and time series model to analyze factors and predict closing price using R and SAS. </li>
 <li>Used the BP neural networks to improve the accuracy of price prediction.</li>  
 </ul>   
   
 Jan. 2019 – May. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Network Pharmacology and Complex Disease Prediction </b>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<font size="3">
- <ul>
+<font size="3"> 
+<ul>
+<b><i> At Chinese Academy of Sciences </i></b>
 <li>Utilized the random walk algorithm based on the mi-RNA/lnc-RNA interaction mechanism to calculate the relationship
 between diseases and the mi-RNA/lnc-RNA using R.</li>
 <li>Performed predictions in diseases using RWRMDA and NRWRH in R and SAS, wrote a 20 page project report to
@@ -54,18 +58,19 @@ validate each step of the predictions. </li>
 <li>Improved the algorithm with the least squares projection; successfully applied it for disease prediction and improve 10%
 of the prediction accuracy.</li>  
 </ul> 
+</font>
 
 <A NAME="Professional Experience"><h2>Professional Experience</h2></A>
 <ul> 
 <b>Shaanxi Shantou Capital Management Co., Ltd. </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
- <font size="3">
- <ul> 
+<font size="3">
+<ul> 
 <li>Collected diverse industry private equity and venture capital data from Jingdata, analyzed the data and conducted data
 visualization using R.</li>
 <li>Predicted the profitability ratio of fund projects. </li>
 <li>Cooperated with colleagues to finish weekly research reports. </li>
 </ul>
-</font>
+</font> <br />
  
 <b> TConneX Inc.</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2020 – September 2020 &nbsp;&nbsp;&nbsp;&nbsp; Herndon, Virginia
 <ul>
@@ -84,7 +89,7 @@ Advanced Time Series &nbsp;&nbsp;&nbsp;Design of Experiments &nbsp;&nbsp; Macroe
  
 <A NAME=" Technical Skills"><h2>Techincal Skills</h2></A>
 <ul>
-<li> Programming Tools: R, Python, C programming, SAS, SQL, Matlab.</li>
+<li>Programming Tools: R, Python, C programming, SAS, SQL, Matlab.</li>
 <li>Data Visualization: Tableau </li>
 <li>Functional Skills:  Data Processing, Machine Learning, Data Visualization. </li>
 </ul>
