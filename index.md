@@ -3,7 +3,7 @@
 <i> Master Student </i> (<b><font color="#FF0000"> I am seeking a PhD position.</font></b>) 
 <br />
 <a href="https://statistics.columbian.gwu.edu/" target="_blank">Department of Statistics</a>, <a href="https://www.gwu.edu/" target="_blank">George Washington University</a><br />
-<br /> 
+
 Email: shifanj@gwmail.gwu.edu  
 Phone number: 86-18992353111 <br />
 Address: No.232 XiYi Road, Xi’an, Shaanxi, China, 710000
@@ -57,7 +57,7 @@ of the prediction accuracy.</li>
 
 <A NAME="Professional Experience"><h2>Professional Experience</h2></A>
 <ul> 
-<b> Shaanxi Shantou Capital Management Co., Ltd.</b>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
+<b>Shaanxi Shantou Capital Management Co., Ltd. </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
  <font size="3">
  <ul> 
 <li>Collected diverse industry private equity and venture capital data from Jingdata, analyzed the data and conducted data
@@ -67,7 +67,7 @@ visualization using R.</li>
 </ul>
 </font>
  
-<b> TConneX Inc.</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2020 – September 2020 &nbsp;&nbsp;Herndon, Virginia
+<b> TConneX Inc.</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2020 – September 2020 &nbsp;&nbsp;&nbsp;&nbsp; Herndon, Virginia
 <ul>
 <li> Based on Decision Tree and Markov Chain to analyze the Diabetes-related amputations data and calculated each
 amputation’s transition probability, conducting sensitivity analysis.</li>
@@ -78,13 +78,13 @@ approximately 10 bugs; wrote a user manual. </li>
 </ul>
 
 <A NAME=" Relevant Coursework"><h2>Relevant Coursework</h2></A>
-• Mathematical Analysis • Stochastic Process  • Mathematical Statistics
-• Data Mining • Bayesian Statistics • Statistical Consulting
-• Advanced Time Series • Design of Experiments • Macroeconomics
+Mathematical Analysis &nbsp;&nbsp;  Stochastic Process &nbsp;&nbsp; Mathematical Statistics &nbsp;&nbsp; Linear Models <br />
+Data Mining &nbsp;&nbsp; Bayesian Statistics &nbsp;&nbsp; Statistical Consulting &nbsp;&nbsp; Survival Analysis <br />
+Advanced Time Series &nbsp;&nbsp;&nbsp;Design of Experiments &nbsp;&nbsp; Macroeconomics
  
 <A NAME=" Technical Skills"><h2>Techincal Skills</h2></A>
 <ul>
-<li> Programming Tools:R, Python, C programming, SAS, SQL.</li>
-<li>Data Visualization:Tableau </li>
-<li>Functional Skills :Data Processing, Machine Learning, Data Visualization. </li>
+<li> Programming Tools: R, Python, C programming, SAS, SQL, Matlab.</li>
+<li>Data Visualization: Tableau </li>
+<li>Functional Skills:  Data Processing, Machine Learning, Data Visualization. </li>
 </ul>
