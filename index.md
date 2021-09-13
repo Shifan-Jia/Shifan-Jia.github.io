@@ -61,7 +61,7 @@ of the prediction accuracy.</li>
 </font>
 
 <A NAME="Professional Experience"><h2>Professional Experience</h2></A>
-<ul> 
+
 <b>Shaanxi Shantou Capital Management Co., Ltd. </b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
 <font size="3">
 <ul> 
