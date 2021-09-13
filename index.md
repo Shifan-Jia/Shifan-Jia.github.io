@@ -32,10 +32,8 @@ related to reopening schools.</li>
  <ul>
 <li>Divided the 50000 samples into a training set and test set , made data cleaning and data visualization using R.</li>
 <li>Utilized PCA and Factors Analysis on 26708 test data and 63 features to make dimension reductions. </li>
-<li> Applied different classification methods (LDA, QDA, gradient boosting tree, random forest, support vector machine) to
-classify the observations.</li> 
-<li> Implemented cross-validation to estimate models’ performance and created optimal weight average of such models using
-R; made prediction offering 85.1 % prediction accuracy</li> 
+<li> Applied different classification methods (LDA, QDA, gradient boosting tree, random forest, support vector machine) to classify the observations.</li> 
+<li> Implemented cross-validation to estimate models’ performance and created optimal weight average of such models using R; made prediction offering 85.1 % prediction accuracy</li> 
 </ul>  
 
   
@@ -58,10 +56,10 @@ validate each step of the predictions. </li>
 <li>Improved the algorithm with the least squares projection; successfully applied it for disease prediction and improve 10%
 of the prediction accuracy.</li>  
  <ul> 
- 
-  ## Professional Experience
+
+## Professional Experience
 <ul> 
- Shaanxi Shantou Capital Management Co., Ltd.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present   &nbsp;&nbsp; Xi'an 
+### Shaanxi Shantou Capital Management Co., Ltd.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present &nbsp;&nbsp; Xi'an 
  <ul> 
 <li>Collected diverse industry private equity and venture capital data from Jingdata, analyzed the data and conducted data
 visualization using R.</li>
@@ -69,7 +67,7 @@ visualization using R.</li>
 <li>Cooperated with colleagues to finish weekly research reports. </li>
 <ul>
  
-#### TConneX Inc.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2020 – September 2020   &nbsp;&nbsp;  Herndon, Virginia
+### TConneX Inc.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  May 2020 – September 2020   &nbsp;&nbsp;  Herndon, Virginia
  <ul>
 <li> Based on Decision Tree and Markov Chain to analyze the Diabetes-related amputations data and calculated each
 amputation’s transition probability, conducting sensitivity analysis.</li>
