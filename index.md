@@ -1,10 +1,16 @@
 ## Shifan Jia
 
 You can use the [editor on GitHub](https://github.com/Shifan-Jia/Shifan-Jia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<br /> Email: shifanj@gwmail.gwu.edu  
+Phone number: 86-18992353111 <br />
+Address: No.232 XiYi Road, Xi’an, Shaanxi, China, 710000
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Education
+<A NAME="Education"><h3>Education</h3></A>
+<ul>
+<li>2019.08-2021.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. in <a href="https://statistics.columbian.gwu.edu/" target="_blank">Statistics</a>, <a href="https://www.gwu.edu/" target="_blank"> George Washington University</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Dr. <a href="http://qqyuan.users.sgg.whu.edu.cn/" target="_blank">Qing Pan</a></li>
+<li>2015.09-2019.06 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.S. in <a href="http://main.sgg.whu.edu.cn/" target="_blank">Mathematics and Applied Mathematics</a>, <a href="https://www.whu.edu.cn/" target="_blank">Shaanxi Normal University</a>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+</ul>
+<br/>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
