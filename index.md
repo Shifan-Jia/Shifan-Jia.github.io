@@ -8,6 +8,7 @@ Email: shifanj@gwmail.gwu.edu
 Phone number: 86-18992353111 <br />
 Address: No.232 XiYi Road, Xi’an, Shaanxi, China, 710000
 
+## Education
 <A NAME="Education"><h3>Education</h3></A>
 <ul>
 <li>2019.08 -  2021.01 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; M.S. in <a href="https://statistics.columbian.gwu.edu/" target="_blank">Statistics</a>, <a href="https://www.gwu.edu/" target="_blank"> George Washington University</a>. GPA: 3.77/4 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Advisor: Dr. <a href="https://statistics.columbian.gwu.edu/qing-pan" target="_blank">Qing Pan</a></li>
