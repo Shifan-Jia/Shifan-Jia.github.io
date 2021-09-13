@@ -39,7 +39,7 @@ R; made prediction offering 85.1 % prediction accuracy</li>
 </ul>  
 
   
-Sep. 2019 – Nov. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ** Tourism Stocks Price Analysis **. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Sep. 2019 – Nov. 2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Tourism Stocks Price Analysis </b>. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <font size="3">
  <ul>
 <li>Collected past 6-months tourism stocks price data and preformed data visualization using R.</li>
@@ -57,11 +57,11 @@ between diseases and the mi-RNA/lnc-RNA using R.</li>
 validate each step of the predictions. </li>
 <li>Improved the algorithm with the least squares projection; successfully applied it for disease prediction and improve 10%
 of the prediction accuracy.</li>  
-</ul> 
+ <ul> 
  
-## Professional Experience
-
-#### Shaanxi Shantou Capital Management Co., Ltd.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present   &nbsp;&nbsp; Xi'an 
+  ## Professional Experience
+<ul> 
+ Shaanxi Shantou Capital Management Co., Ltd.  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Apr.2021– Present   &nbsp;&nbsp; Xi'an 
  <ul> 
 <li>Collected diverse industry private equity and venture capital data from Jingdata, analyzed the data and conducted data
 visualization using R.</li>
@@ -79,7 +79,4 @@ day. </li>
 approximately 10 bugs; wrote a user manual. </li>
 <ul>
  
- 
- 
 ## Techincal Skills
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
